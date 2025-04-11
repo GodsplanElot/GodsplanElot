@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Red**, a passionate and competitive full-stack developer and cybersecurity enthusiast.  
+I'm **Godsplan**, a passionate and competitive full-stack developer and cybersecurity enthusiast.  
 I love building secure, efficient, and elegant solutions that solve real-world problems.  
 From writing backend logic to securing systems and deploying full-scale applications—I'm all in.  
 When I’m not coding, I’m learning something new or helping others level up in tech.  
