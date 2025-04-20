@@ -55,6 +55,7 @@ When I’m not coding, I’m learning something new or helping others level up i
 - DevOps basics (Docker, CI/CD)
 - Web Application Security
 - AI Tools & Automation
+- Node.js
 
 ---
 
