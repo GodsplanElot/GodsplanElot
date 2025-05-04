@@ -69,8 +69,6 @@ When I’m not coding, I’m learning something new or helping others level up i
 
 ### 💡 Fun Facts
 
-- I code best with lo-fi beats in the background 🎧  
-- I believe coffee and clean code go hand in hand ☕  
 - I’m a tech perfectionist — I don’t ship till it’s sharp ✅  
 
 ---
