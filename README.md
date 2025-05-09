@@ -25,7 +25,7 @@ When I’m not coding, I’m learning something new or helping others level up i
 - 🌐 Portfolio: Coming soon...
 - 💼 GitHub: GodsplanElot(https://github.com/GodsplanElot)
 - 📧 Email: godsplanelot@gmail.com
-- 🗨️ Let's connect on [LinkedIn](https://www.linkedin.com/)
+
 
 ---
 
