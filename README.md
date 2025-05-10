@@ -24,7 +24,7 @@ When I’m not coding, I’m learning something new or helping others level up i
 
 - 🌐 Portfolio: Coming soon...
 - 💼 GitHub: GodsplanElot(https://github.com/GodsplanElot)
-- 📧 Email: godsplanelot@gmail.com
+- 📧 Email: godsplanelot2@gmail.com
 
 
 ---
@@ -61,7 +61,7 @@ When I’m not coding, I’m learning something new or helping others level up i
 
 ### 📁 Projects Worth Checking
 
-- 🔒 **[Union Bank](https://github.com/GodsplanElot)** – A secure banking system for U.S. military veterans  
+- 🔒 **[Union Bank]** – A secure banking system for U.S. military veterans  
 - 🔎 **GitHub Finder App** – Find and explore GitHub user profiles with live search  
 - 📥 **Messaging App** – Admin-to-user communication with Django backend  
 
